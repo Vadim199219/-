@@ -8,3 +8,6 @@
 | 2.   | [Исследование надежности заемщиков банка](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей на факт возврата кредита в срок | python, pandas |
 | 3.   | [Анализ рынка недвижимости Санкт-Петербурга](https://github.com/Vadim199219/practicum-projects/tree/main/real%20estate%20market%20research) | Определить рыночную стоимость объектов недвижимости и типичные параметры квартир | python, pandas, Matplotlib |
 | 4.   | [Определение выгодного тарифа для телеком компании](https://github.com/Vadim199219/practicum-projects/tree/main/Search%20of%20beneficial%20tariff) | Проанализировать поведение клиентов и найти оптимальный тариф | python, pandas, NumPy, SciPy |
+| 5.   | [Изучение закономерностей, определяющих успешность игр](https://github.com/Vadim199219/practicum-projects/tree/main/search%20of%20reasons%20that%20determind%20on%20success%20of%20games) | Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры | python, pandas, NumPy, SciPy |
+
+https://github.com/Vadim199219/practicum-projects/tree/main/search%20of%20reasons%20that%20determind%20on%20success%20of%20games
